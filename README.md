@@ -1,4 +1,15 @@
-### Hi there 👋
+### LEE JIN SOL
+
+
+🍏 [**jinsol.log**](https://velog.io/@jinsol) 🍏 개발블로그
+ 
+🍊 [**projects**](https://whkakrkr.tistory.com) 🍊 포트폴리오
+
+🍋 [**notion**]  🍋 노션 
+
+
+
+
 
 <!--
 **Lee-jinsol/Lee-jinsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
