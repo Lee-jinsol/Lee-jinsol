@@ -1,13 +1,13 @@
-### LEE JIN SOL
-
-
-🍏 [**jinsol.log**](https://velog.io/@jinsol) 🍏 개발블로그
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LeeJinsol&fontSize=70&animation=twinkling)
+<div align="center">
  
+🍏 [**jinsol.log**](https://velog.io/@jinsol) 🍏 개발블로그
+
 🍊 [**projects**](https://whkakrkr.tistory.com) 🍊 포트폴리오
 
 🍋 [**notion**]  🍋 노션 
 
-
+</div>
 
 
 
